@@ -3,13 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yummmyscrummyyum&show_icons=true&theme=transparent&hide_border=true&title_color=5865F2&icon_color=5865F2&text_color=ffffff" alt="Stats" />
+  <a href="https://discord.com/users/1456329840054763603">
+    <img src="https://lanyard.cnrad.dev/api/1456329840054763603?theme=dark&bg=161b22&animated=true&hideDiscrim=true" alt="Discord Status" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yummmyscrummyyum&theme=transparent&hide_border=true&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yummmyscrummyyum&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=5865F2&text_color=ffffff" alt="Stats" />
 </div>
 
 <br />
@@ -21,9 +23,7 @@
 <br />
 
 <div align="center">
-  <a href="https://discord.com/users/1456329840054763603">
-    <img src="https://img.shields.io/badge/--?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yummmyscrummyyum&theme=transparent&hide_border=true&stroke=00d4ff&ring=5865F2&fire=5865F2&currStreakLabel=00d4ff" />
 </div>
 
 <div align="center">
